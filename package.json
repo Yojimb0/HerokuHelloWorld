@@ -1,0 +1,23 @@
+{
+  "name": "HerokuHelloWorld",
+  "version": "0.0.0",
+  "description": "Hello World to test Heroku deployment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yojimb0/HerokuHelloWorld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yojimb0/HerokuHelloWorld/issues"
+  },
+  "homepage": "https://github.com/Yojimb0/HerokuHelloWorld",
+  "dependencies": {
+    "express": "~4.3.1",
+    "logfmt": "~1.1.2"
+  }
+}
